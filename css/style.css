@@ -58,6 +58,7 @@ FACEBOOK: https://www.facebook.com/themefisher
 -------------------------------------------------------------------*/
 /*=== MEDIA QUERY ===*/
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500");
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&family=Allura&family=Caveat&display=swap');
 body {
   line-height: 1.5;
   font-family: "Georgia", serif;
@@ -70,7 +71,11 @@ p {
   font-size: 15px;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3 {
+  font-family: 'Caveat', cursive;
+}
+
+h4, h5, h6 {
   font-family: "Georgia", serif;
   color: darkgoldenrod;
 }
