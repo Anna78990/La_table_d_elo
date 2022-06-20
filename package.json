@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  },
+  "scripts": {
+    "start": "nodemon p_index.js"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2",
+    "nodemon": "^2.0.16"
+  }
+}
