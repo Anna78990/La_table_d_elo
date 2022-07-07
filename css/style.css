@@ -995,7 +995,31 @@ input[type="tel"]:focus {
   font-family: 'Allura', cursive;
 }
 
+#photopro .img-pro{
+	background-image: url(../img/elo.PNG);
+	background-repeat: no-repeat;
+	border-radius: 50% 20% / 10% 40%;
+	height: 50vh;
+}
 
+#logo .img-logo{
+	background-image: url(../img/logo.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 25vh;
+}
+
+#tache .img-tache{
+	background-image: url(../img/tache.PNG);
+	text-align: center;
+	background-repeat: space;
+	background-position: center;
+	height: 25vh;
+}
+
+.img-tache li{
+font-size: 20px;
+}
 .slider-item {
 	text-align: center;
 	background-size: cover;
